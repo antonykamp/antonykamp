@@ -2,7 +2,7 @@
 
 Just a student at the HPI Potsdam.
 
-🔭 I’m mostly working on [symfit](https://github.com/tBuLi/symfit)  
+🔭 I’m mostly working on [entel.me](https://github.com/entel-me/entel)  
 👯 I’m looking to collaborate on more scientific projects  
 🌱 I’m currently learning [blitz](https://github.com/blitz-js/blitz)  
 
