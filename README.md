@@ -1,12 +1,10 @@
 ### Hi there, I'm Antony 👋
 
-Just a student at the HPI Potsdam.
+A student at the HPI Potsdam.
 
 🔭 I’m mostly working on [entel.me](https://github.com/entel-me/entel)  
 👯 I’m looking to collaborate on more scientific projects  
 🌱 I’m currently learning [blitz](https://github.com/blitz-js/blitz)  
-
-😄 Pronouns: he/him
 <!--
 **antonykamp/antonykamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
