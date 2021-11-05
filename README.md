@@ -2,9 +2,9 @@
 
 A student at the HPI Potsdam.
 
-🔭 I’m mostly working on [entel.me](https://github.com/entel-me/entel)  
+🔭 I’m mostly working on [AutoDot](https://github.com/antonykamp/AutoDot) and [ELEA](https://github.com/HPI-ELEA/elea)  
 👯 I’m looking to collaborate on more scientific projects  
-🌱 I’m currently learning [blitz](https://github.com/blitz-js/blitz)  
+🌱 I’m currently learning [blitzJS](https://github.com/blitz-js/blitz)  
 <!--
 **antonykamp/antonykamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
