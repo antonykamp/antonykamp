@@ -2,9 +2,9 @@
 
 A student at the HPI Potsdam.
 
-🔭 I’m mostly working on [AutoDot](https://github.com/antonykamp/AutoDot) and [ELEA](https://github.com/HPI-ELEA/elea)  
+🔭 I’m primarily working on tuning algorithms for quantum devices and [ELEA](https://github.com/HPI-ELEA/elea)  
 👯 I’m looking to collaborate on more scientific projects  
-🌱 I’m currently learning [blitzJS](https://github.com/blitz-js/blitz)  
+🌱 I’m currently learning Go, just for fun
 <!--
 **antonykamp/antonykamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
