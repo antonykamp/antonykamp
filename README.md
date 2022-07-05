@@ -2,7 +2,7 @@
 
 A student at the HPI Potsdam.
 
-🔭 I’m primarily working on tuning algorithms for quantum devices and [ELEA](https://github.com/HPI-ELEA/elea)  
+🔭 I’m primarily working on tuning algorithms for quantum devices and [krisenchat](https://krisenchat.de/)  
 👯 I’m looking to collaborate on more scientific projects  
 🌱 I’m currently refreshing my knowledge about [BlitzJS](https://blitzjs.com/) and [Prisma](https://www.prisma.io/)
 <!--
